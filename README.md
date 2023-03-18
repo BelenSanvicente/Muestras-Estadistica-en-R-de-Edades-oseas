@@ -1,7 +1,8 @@
 # Muestras Estadistica en lenguaje R de Edades óseas
 Nots de Bioestadística. En este código se manejan, con un ejemplo, las librerías y funciones que se usan para conocer los intervalos de confianza para la media y las varianza de una población. Así como la diferencia de medias para dos muestras independientes y el cociente de varianzas.
 Nombre: Ana Belen Sanvicente Méndez
-#Tarea 3: Estimación.
+
+#Tarea 3: Estimación
 
 1. Se llevaron a cabo mediciones de la edad ósea en población pediátrica de la Ciudad de Querétaro por dos diferentes médicos pediatras expertos en el seguimiento de la maduración esquelética en dos diferentes tipos de imágenes: RX y DXA. (Valor 5 puntos)
 Suposiciones y teoría previa para los cálculos:
